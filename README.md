@@ -11,5 +11,11 @@ Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interacti
 - State-wise testing (Positive vs Negative)
   
 ## ⚠️ **Note**:
-- This project uses a **sample CSV dataset** and does **not** represent actual Covid-19 statistics. It is built solely for learning and demonstration purposes.
+- This project uses a **sample CSV dataset** and **does not represent** actual Covid-19 statistics. It is built solely for learning and demonstration purposes.
+
+## 📁 Dataset Used
+
+- A **sample CSV file** simulating Covid-19-related data in India.
+- Data fields include: State, Date, Vaccine Type, Doses, Age Group, Gender, Testing Results, etc.
+-  📝 **Disclaimer**: This is **mock data** created for project demonstration only.
 
