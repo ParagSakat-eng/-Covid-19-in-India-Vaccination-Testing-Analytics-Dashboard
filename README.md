@@ -68,12 +68,12 @@ Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interacti
 - This project is a great example of how data visualization can drive awareness and help monitor public health challenges.
 
 ## 🛠️ Tools Used
-**Tableau**          
-**CSV / Excel**     
-**Mapbox Integration** 
-**Tableau Filters & Parameters**
-**Calculated Fields**
-**Derived insights such as totals, percentages, ratios**
+- **Tableau**          
+- **CSV / Excel**     
+- **Mapbox Integration** 
+- **Tableau Filters & Parameters**
+- **Calculated Fields**
+- **Derived insights such as totals, percentages, ratios**
  
 ## 📷 Dashboard Preview
 
