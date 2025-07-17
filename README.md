@@ -2,6 +2,7 @@
 
 ## 📌 Project Objective:
 Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interactive Tableau visualization project that analyzes mock Covid-19 data across Indian states. It provides insights into vaccination progress (first vs second doses), vaccine types, testing outcomes, case trends, and demographic impacts (age/gender distribution).
+
 ## ✅ Key Highlights:
 - First vs Second Dose comparison
 - Vaccine type distribution (Covaxin, CoviShield, Sputnik V)
@@ -22,14 +23,14 @@ Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interacti
 
 ## ❓ Key Questions Answered (KPIs)
 
-- 1. What is the total count of First vs Second doses administered?
-- 2. Which vaccine types were administered most frequently?
-- 3. What are the trends in Covid-19 cases, deaths, and recoveries over time?
-4. Which states are most affected in terms of total deaths and confirmed cases?
-5. How many tests were conducted state-wise and what were the results (Positive vs Negative)?
-6. What is the age group distribution of the affected population?
-7. What is the gender-wise distribution of Covid-19 cases?
-8. How many ICMR Test Labs are available per state?
+-  What is the total count of First vs Second doses administered?
+-  Which vaccine types were administered most frequently?
+-  What are the trends in Covid-19 cases, deaths, and recoveries over time?
+-  Which states are most affected in terms of total deaths and confirmed cases?
+-  How many tests were conducted state-wise and what were the results (Positive vs Negative)?
+-  What is the age group distribution of the affected population?
+-  What is the gender-wise distribution of Covid-19 cases?
+-  How many ICMR Test Labs are available per state?
 -  DashBoard Interaction <a href="https://github.com/ParagSakat-eng/-Covid-19-in-India-Vaccination-Testing-Analytics-Dashboard/blob/main/Covid_19_india_DashBoard%20SS.PNG"> View DashBoard </a>
 
 ## 🔄 Process
@@ -62,16 +63,17 @@ Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interacti
 
 ## 🧾 Final Conclusion
 
-The Covid-19 in India Dashboard demonstrates the power of **data storytelling using Tableau**.  
-It provides a comprehensive overview of the pandemic's effect on India, using demographic and regional insights, and emphasizes vaccination, testing, and disease progression trends.
-This project is a great example of how data visualization can drive awareness and help monitor public health challenges.
+- The Covid-19 in India Dashboard demonstrates the power of **data storytelling using Tableau**.  
+- It provides a comprehensive overview of the pandemic's effect on India, using demographic and regional insights, and emphasizes vaccination, testing, and disease progression trends.
+- This project is a great example of how data visualization can drive awareness and help monitor public health challenges.
 
 ## 🛠️ Tools Used
 **Tableau**          
 **CSV / Excel**     
 **Mapbox Integration** 
 **Tableau Filters & Parameters**
-**Calculated Fields| Derived insights such as totals, percentages, ratios|**
+**Calculated Fields**
+**Derived insights such as totals, percentages, ratios**
  
 ## 📷 Dashboard Preview
 
