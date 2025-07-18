@@ -77,5 +77,5 @@ Covid-19 in India: Vaccination &amp; Testing Analytics Dashboard is an interacti
  
 ## 📷 Dashboard Preview
 
-<a href="https://github.com/ParagSakat-eng/-Covid-19-in-India-Vaccination-Testing-Analytics-Dashboard/blob/main/Covid_19_india_DashBoard%20SS.PNG"> Dashboard Preview </a>
+> 🖼️ Screenshot of the Tableau Dashboard: <a href="https://github.com/ParagSakat-eng/-Covid-19-in-India-Vaccination-Testing-Analytics-Dashboard/blob/main/Covid_19_india_DashBoard%20SS.PNG"> Dashboard Preview </a>
 
